@@ -1,0 +1,6 @@
+version: 4.0.70
+steps:
+  - prompt: Assert that the webpage loads completely.
+    commands:
+      - command: assert
+        expect: the webpage displays all images and styles correctly
