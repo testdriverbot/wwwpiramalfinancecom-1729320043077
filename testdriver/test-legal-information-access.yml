@@ -1,0 +1,62 @@
+version: 4.0.70
+steps:
+  - prompt: Click on the "Legal" link.
+    commands:
+      - command: hover-text
+        text: Legal
+        description: Legal link in the webpage
+        action: click
+  - prompt: Click on the "Legal" link.
+    commands:
+      - command: hover-text
+        text: Legal
+        description: Legal link in the webpage
+        action: click
+  - prompt: Click on the "Legal" link.
+    commands:
+      - command: hover-text
+        text: Legal
+        description: Legal link in the webpage
+        action: click
+  - prompt: Click on the "Legal" link.
+    commands:
+      - command: hover-text
+        text: Legal
+        description: Legal link in the webpage
+        action: click
+  - prompt: Click on the "Legal" link.
+    commands:
+      - command: hover-text
+        text: Legal
+        description: Legal link in the webpage
+        action: click
+  - prompt: Click on the "Legal" link.
+    commands:
+      - command: hover-text
+        text: Legal
+        description: Legal link in the webpage
+        action: click
+  - prompt: Click on the "Legal" link.
+    commands:
+      - command: hover-text
+        text: Legal
+        description: Legal link in the webpage
+        action: click
+  - prompt: Click on the "Legal" link.
+    commands:
+      - command: hover-text
+        text: Legal
+        description: Legal link in the webpage
+        action: click
+  - prompt: Click on the "Legal" link.
+    commands:
+      - command: hover-text
+        text: Legal
+        description: Legal link in the webpage
+        action: click
+  - prompt: Click on the "Legal" link.
+    commands:
+      - command: hover-text
+        text: Legal
+        description: Legal link in the webpage
+        action: click
