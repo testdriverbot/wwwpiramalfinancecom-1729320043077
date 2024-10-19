@@ -1,0 +1,62 @@
+version: 4.0.70
+steps:
+  - prompt: Click on the "Branch Locator" link.
+    commands:
+      - command: hover-text
+        text: Branch Locator
+        description: link to find branches
+        action: click
+  - prompt: Click on the "Branch Locator" link.
+    commands:
+      - command: hover-text
+        text: Branch Locator
+        description: link to find branches
+        action: click
+  - prompt: Click on the "Branch Locator" link.
+    commands:
+      - command: hover-text
+        text: Branch Locator
+        description: link to find branches
+        action: click
+  - prompt: Click on the "Branch Locator" link.
+    commands:
+      - command: hover-text
+        text: Branch Locator
+        description: link to find branches
+        action: click
+  - prompt: Click on the "Branch Locator" link.
+    commands:
+      - command: hover-text
+        text: Branch Locator
+        description: link to find branches
+        action: click
+  - prompt: Click on the "Branch Locator" link.
+    commands:
+      - command: hover-text
+        text: Branch Locator
+        description: link to find branches
+        action: click
+  - prompt: Click on the "Branch Locator" link.
+    commands:
+      - command: hover-text
+        text: Branch Locator
+        description: link to find branches
+        action: click
+  - prompt: Click on the "Branch Locator" link.
+    commands:
+      - command: hover-text
+        text: Branch Locator
+        description: link to find branches
+        action: click
+  - prompt: Click on the "Branch Locator" link.
+    commands:
+      - command: hover-text
+        text: Branch Locator
+        description: link to find branches
+        action: click
+  - prompt: Click on the "Branch Locator" link.
+    commands:
+      - command: hover-text
+        text: Branch Locator
+        description: link to find branches
+        action: click
