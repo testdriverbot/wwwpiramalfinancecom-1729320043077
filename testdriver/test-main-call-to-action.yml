@@ -1,0 +1,62 @@
+version: 4.0.70
+steps:
+  - prompt: Click on the main call to action button/link.
+    commands:
+      - command: hover-text
+        text: Home Loan
+        description: main call to action link
+        action: click
+  - prompt: Click on the main call to action button/link.
+    commands:
+      - command: hover-text
+        text: Personal Loan
+        description: another potential call to action link
+        action: click
+  - prompt: Click on the main call to action button/link.
+    commands:
+      - command: hover-text
+        text: Apply for Home Loan
+        description: main call to action link
+        action: click
+  - prompt: Click on the main call to action button/link.
+    commands:
+      - command: hover-text
+        text: Apply for Home Loan
+        description: main call to action link
+        action: click
+  - prompt: Click on the main call to action button/link.
+    commands:
+      - command: hover-text
+        text: Home Loan
+        description: potential main call to action link
+        action: click
+  - prompt: Click on the main call to action button/link.
+    commands:
+      - command: hover-text
+        text: Apply Now
+        description: main call to action button
+        action: click
+  - prompt: Click on the main call to action button/link.
+    commands:
+      - command: hover-text
+        text: Apply for Home Loan
+        description: potential main call to action link
+        action: click
+  - prompt: Click on the main call to action button/link.
+    commands:
+      - command: hover-text
+        text: Apply for Home Loan
+        description: potential main call to action link
+        action: click
+  - prompt: Click on the main call to action button/link.
+    commands:
+      - command: hover-text
+        text: Home Loan
+        description: potential main call to action link
+        action: click
+  - prompt: Click on the main call to action button/link.
+    commands:
+      - command: hover-text
+        text: Apply for Home Loan
+        description: potential main call to action link
+        action: click
